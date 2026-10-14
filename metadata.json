@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus AI",
+  "description": "Intelligent Campus Management & Resource Optimization Platform — One Campus. One Platform. Smarter Decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
